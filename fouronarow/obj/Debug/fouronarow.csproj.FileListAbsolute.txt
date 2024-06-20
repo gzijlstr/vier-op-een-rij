@@ -1,0 +1,10 @@
+C:\Users\gerbe\source\repos\fouronarow\bin\Debug\fouronarow.exe.config
+C:\Users\gerbe\source\repos\fouronarow\bin\Debug\fouronarow.exe
+C:\Users\gerbe\source\repos\fouronarow\bin\Debug\fouronarow.pdb
+C:\Users\gerbe\source\repos\fouronarow\obj\Debug\fouronarow.csproj.AssemblyReference.cache
+C:\Users\gerbe\source\repos\fouronarow\obj\Debug\fouronarow.Properties.Resources.resources
+C:\Users\gerbe\source\repos\fouronarow\obj\Debug\fouronarow.csproj.GenerateResource.cache
+C:\Users\gerbe\source\repos\fouronarow\obj\Debug\fouronarow.csproj.CoreCompileInputs.cache
+C:\Users\gerbe\source\repos\fouronarow\obj\Debug\fouronarow.exe
+C:\Users\gerbe\source\repos\fouronarow\obj\Debug\fouronarow.pdb
+C:\Users\gerbe\source\repos\fouronarow\obj\Debug\FourInARowGame.Form1.resources
